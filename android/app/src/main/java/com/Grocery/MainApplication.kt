@@ -1,4 +1,4 @@
-package com.practicenative
+package com.grocery
 
 import android.app.Application
 import com.facebook.react.PackageList
